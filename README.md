@@ -1,4 +1,4 @@
-# a simple event emitter handler
+# a tiny event emitter handler
 
 ## usage
 ```javascript
