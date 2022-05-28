@@ -1,12 +1,9 @@
 {
   "name": "@annoyc/eventemitter",
-  "version": "0.0.1",
-  "description": "a simple event emitter handler",
+  "version": "0.0.2",
+  "description": "a tiny event emitter handler",
   "exports": {
     ".": "./index.js"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "annoyc",
   "license": "ISC"
